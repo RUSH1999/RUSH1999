@@ -1,0 +1,210 @@
+*
+{
+	padding: 0;
+	margin: 0;
+}
+body
+{
+	background: linear-gradient(#161613 , #29323c); 
+	height: 100%;
+}
+
+/*HOME*/
+	.card-footer small.text-muted
+	{
+		font-weight: bolder;
+		color: #ffffff;
+	}
+	.card:hover
+	{
+		background-color: black;
+		color: white;
+
+	}
+
+	.card a
+	{
+		color: black;
+	}
+	.card a:active
+	{
+	
+	}
+	.card a:hover
+	{
+		color: white;
+		text-decoration: none;
+	}
+
+/*HOME*/
+ 
+/* Video Page */
+	.advertisment .card
+	{
+		color: black;
+		background-color: white;
+	}
+	.advertisment .card:active
+	{
+		color: black;
+		background-color: white;
+	}
+	
+	.advertisment .card button
+	{
+		color: black;
+		background-color: white;
+		border: none;
+		outline: none;
+	}
+	.advertisment .card button:active
+	{
+		color: blue;
+		background-color: white;
+		
+		border: none;
+	}
+
+/* Video Page */
+
+/*  Navigation bar*/
+	.collapse ul.navbar-nav li.nav-item a.nav-link
+	{
+		color: white;
+	}
+	.collapse ul.navbar-nav li.nav-item .dropdown-menu
+	{
+		color: white;
+		background:black;
+	}
+	.collapse ul.navbar-nav li.nav-item .dropdown-menu a.dropdown-item
+	{
+		color: white;
+	}
+	.collapse ul.navbar-nav li.nav-item .dropdown-menu a.dropdown-item:hover
+	{
+		color: red;
+		
+	}
+	.collapse ul.navbar-nav li.nav-item .dropdown-menu a.dropdown-item.active1
+	{
+		color: #ff0000;
+	}
+	.collapse ul.navbar-nav li.nav-item a.active1
+	{
+		color: #ff0000;
+		font-weight: bolder;
+	}
+/*  NAvigation bar*/
+
+/* About */
+		.about.info
+	{
+		font-size: 50px;
+		padding-bottom: 20px;
+		border-bottom: 1px solid white;
+		animation: animate 3s infinite; 
+	}
+
+	.about h1
+	{
+		color: white;
+	}
+
+	.info img
+	{
+		height: 200px;
+		width: 200px;
+		float: left;
+		shape-outside: url(https://i0.wp.com/finetechraju.com/wp-content/uploads/2021/05/pngkit_taj-mahal-png_820363.png?fit=631%2C398&ssl=1?v=1622290961);
+		margin-top: 100px;
+	}
+	.info h3
+	{
+		text-align: center;
+		font-weight: bolder;
+		color: white;
+
+	}
+	.info p
+	{
+		text-align: right;
+		font-size: 20px;
+		color: white;
+		
+	}
+	.why_vadima img
+	{
+		height: 200px;
+		width: 200px;
+		margin-top: 150px;
+		float: right;
+		shape-outside: url(https://cdn.iconscout.com/wordpress/2017/04/hawamahal-hawa-mahal-jaipur-monument-sandstone-historical-places-india-754x700.png);
+		color: white;
+	}
+	.why_vadima h3
+	{
+		text-align: center;
+		font-weight: bolder;
+		color: white;
+
+	}
+	.why_vadima p
+	{
+		text-align: left;
+		font-size: 20px;
+		color: white;
+	}
+/* About */
+
+/* Links Footer */
+	.linkfooter
+	{
+		background-color: #171717;
+		color: white;
+	}
+	.footer-links a
+	{
+		color: white;
+	}
+	.social-links a
+	{
+		color: black;
+		margin-left: 10px;
+	}
+	.social-links a.facebook i
+	{
+		padding-right: 15px;
+		padding-left: 15px;
+	}
+	.social-links a.instagram i
+	{
+		padding-right: 10px;
+		padding-left: 10px;
+	}
+	.social-links a i
+	{
+		font-size: 20px;
+		background-color: white;
+		padding: 10px;
+		border-radius: 40px;
+	}
+	.social-links a i:hover
+	{
+		
+		background-color: transparent;
+		color: white;
+		
+		
+	}
+	
+/* Links Footer */
+
+/* Footer */
+		.blockquote
+		{
+			background-color: #000;
+			position: relative;
+			bottom: 0px;
+		}
+/* Footer */
